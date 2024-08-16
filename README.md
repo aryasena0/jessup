@@ -1,2 +1,2 @@
 # jessup (jevescript asu pantek)
-Collections of js boilerplates that i've used in many projects
+Collections of js boilerplates that i've used in many personal & client projects
